@@ -1,0 +1,6 @@
+RSpec demo for the Las Vegas Ruby group.
+
+1. Fork it
+2. bundle install
+3. rake
+4. rake rcov

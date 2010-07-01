@@ -1,0 +1,32 @@
+--- 
+dependencies: 
+  rspec: 
+    group: 
+    - :test
+    version: ">= 0"
+  activemodel: 
+    group: 
+    - :default
+    version: ">= 0"
+  mocha: 
+    group: 
+    - :test
+    version: ">= 0"
+specs: 
+- rake: 
+    version: 0.8.7
+- activesupport: 
+    version: 3.0.0.beta4
+- builder: 
+    version: 2.1.2
+- i18n: 
+    version: 0.4.1
+- activemodel: 
+    version: 3.0.0.beta4
+- mocha: 
+    version: 0.9.8
+- rspec: 
+    version: 1.3.0
+hash: a6fb08d4af6ee81a29de03ac5d89af5f667982b7
+sources: []
+
